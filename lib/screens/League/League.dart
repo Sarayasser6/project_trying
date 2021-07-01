@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'Academy.dart';
-import 'PageDrawer.dart';
-import 'PlayGrounds.dart';
-import 'homePage.dart';
+import '../Academy/Academy.dart';
+import '../PageDrawer/PageDrawer.dart';
+import '../PlayGrounds/PlayGrounds.dart';
+import '../homePage/homePage.dart';
 class League extends StatefulWidget {
 
   String title;

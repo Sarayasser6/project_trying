@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:project_trying/screens/FirstPage.dart';
-import 'package:project_trying/screens/PlayGrounds.dart';
-import 'package:project_trying/screens/homePage.dart';
+import 'package:project_trying/screens/FirstPage/FirstPage.dart';
+import 'package:project_trying/screens/PlayGrounds/PlayGrounds.dart';
+import 'package:project_trying/screens/ReservationScreen/ReservationScreen.dart';
+import 'package:project_trying/screens/homePage/homePage.dart';
 
 
 void main() => runApp(MyApp());

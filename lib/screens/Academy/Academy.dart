@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 
 import 'package:flutter/material.dart';
 
-import 'BottomNB.dart';
-import 'League.dart';
-import 'PageDrawer.dart';
-import 'PlayGrounds.dart';
-import 'homePage.dart';
+import '../BottomNB/BottomNB.dart';
+import '../League/League.dart';
+import '../PageDrawer/PageDrawer.dart';
+import '../PlayGrounds/PlayGrounds.dart';
+import '../homePage/homePage.dart';
 class Academy extends StatefulWidget {
 
   String title;

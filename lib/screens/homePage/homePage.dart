@@ -4,11 +4,11 @@ import'package:flutter/src/painting/image_provider.dart';
 import'package:flutter/src/painting/image_cache.dart';
 import'package:flutter/src/services/asset_bundle.dart';
 
-import 'Academy.dart';
-import 'BottomNB.dart';
-import 'League.dart';
-import 'PageDrawer.dart';
-import 'PlayGrounds.dart';
+import '../Academy/Academy.dart';
+import '../BottomNB/BottomNB.dart';
+import '../League/League.dart';
+import '../PageDrawer/PageDrawer.dart';
+import '../PlayGrounds/PlayGrounds.dart';
 
 class HomePage extends StatefulWidget {
   String title;

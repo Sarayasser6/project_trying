@@ -1,15 +1,15 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:project_trying/screens/League.dart';
+import 'package:project_trying/screens/League/League.dart';
 
-import 'Academy.dart';
-import 'BottomNB.dart';
-import 'FilterScreen.dart';
-import 'PageDrawer.dart';
-import 'RelatedPG.dart';
-import 'ReservationScreen.dart';
-import 'Sorting.dart';
-import 'homePage.dart';
+import '../Academy/Academy.dart';
+import '../BottomNB/BottomNB.dart';
+import '../FilterScreen/FilterScreen.dart';
+import '../PageDrawer/PageDrawer.dart';
+import '../RelatedPG/RelatedPG.dart';
+import '../ReservationScreen/ReservationScreen.dart';
+import '../Sorting/Sorting.dart';
+import '../homePage/homePage.dart';
 
 
 class PlayGrounds extends StatefulWidget {

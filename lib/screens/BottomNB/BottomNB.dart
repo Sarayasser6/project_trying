@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'Academy.dart';
-import 'League.dart';
-import 'PlayGrounds.dart';
-import 'homePage.dart';
+import '../Academy/Academy.dart';
+import '../League/League.dart';
+import '../PlayGrounds/PlayGrounds.dart';
+import '../homePage/homePage.dart';
 
 
 class BottomNavigationbar extends StatefulWidget {
